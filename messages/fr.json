@@ -1,0 +1,414 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "howItWorks": "Comment ça Marche",
+    "features": "Fonctionnalités",
+    "forBusiness": "Pour les Professionnels",
+    "downloadApp": "Télécharger l'App",
+    "becomeProfessional": "Devenir Professionnel"
+  },
+  "hero": {
+    "title": "Un Maalem en Quelques Minutes",
+    "subtitle": "La plateforme de confiance du Maroc qui vous connecte avec des professionnels de réparation vérifiés",
+    "downloadApp": "Télécharger l'App",
+    "joinWaitlist": "Rejoindre la Liste d'Attente",
+    "becomeProfessional": "Devenir Professionnel",
+    "aboutUs": "À propos",
+    "contactUs": "Contactez-nous",
+    "stats": {
+      "matching": "Mise en Relation Temps Réel",
+      "ratings": "Évaluations & Avis Transparents",
+      "verified": "Pros Vérifiés"
+    }
+  },
+  "howItWorks": {
+    "title": "Comment ça Marche",
+    "subtitle": "Simple, rapide et fiable pour tout le monde",
+    "customerTitle": "Pour les Clients",
+    "professionalTitle": "Pour les Professionnels",
+    "customerSteps": {
+      "1": {
+        "title": "Publiez Votre Demande",
+        "description": "Décrivez ce dont vous avez besoin et soyez mis en relation instantanément"
+      },
+      "2": {
+        "title": "Recevez des Offres",
+        "description": "Recevez des offres compétitives de professionnels vérifiés dans votre région"
+      },
+      "3": {
+        "title": "Choisissez et Suivez",
+        "description": "Sélectionnez votre professionnel préféré et suivez son arrivée en temps réel"
+      }
+    },
+    "professionalSteps": {
+      "1": {
+        "title": "Recevez des Demandes",
+        "description": "Soyez notifié des travaux de réparation dans votre région"
+      },
+      "2": {
+        "title": "Envoyez des Offres",
+        "description": "Concurrencez équitablement en envoyant vos meilleures offres et disponibilités"
+      },
+      "3": {
+        "title": "Terminer & Être Payé",
+        "description": "Complétez le travail et recevez des paiements sécurisés avec d'excellentes critiques"
+      }
+    },
+    "cta": {
+      "title": "Prêt à commencer ?",
+      "subtitle": "Rejoignez des milliers de Marocains qui font confiance à Maalem pour leurs besoins de réparation et d'entretien",
+      "downloadApp": "Télécharger l'App",
+      "becomeProfessional": "Devenir Professionnel"
+    }
+  },
+  "features": {
+    "title": "Pourquoi Choisir Maalem",
+    "subtitle": "Tout ce dont vous avez besoin pour des services fiables à domicile et professionnels",
+    "emergency": {
+      "title": "Assistance d'Urgence",
+      "description": "Support d'urgence 24/7 pour les réparations urgentes"
+    },
+    "matching": {
+      "title": "Mise en Relation Temps Réel",
+      "description": "Mise en relation alimentée par l'IA avec les meilleurs professionnels"
+    },
+    "negotiation": {
+      "title": "Négociation de Prix en Direct",
+      "description": "Tarification équitable grâce à une négociation transparente"
+    },
+    "verified": {
+      "title": "Professionnels Vérifiés",
+      "description": "Tous les professionnels sont vérifiés et contrôlés"
+    },
+    "ratings": {
+      "title": "Évaluations et Avis",
+      "description": "Créez la confiance grâce aux retours de la communauté"
+    },
+    "tracking": {
+      "title": "Suivi Temps Réel",
+      "description": "Suivez l'arrivée de votre professionnel en direct"
+    },
+    "ai": {
+      "title": "Détection de Problèmes par IA",
+      "description": "Diagnostics intelligents pour des solutions précises"
+    },
+    "multilang": {
+      "title": "Support Multilingue",
+      "description": "Disponible en arabe, français et anglais"
+    },
+    "property": {
+      "title": "Mode Gestion Immobilière",
+      "description": "Fonctionnalités spécialisées pour les gestionnaires de propriétés"
+    }
+  },
+  "morocco": {
+    "title": "Conçu pour le Maroc",
+    "subtitle": "Spécifiquement conçu pour les maisons et entreprises marocaines",
+    "localization": {
+      "title": "Support Langage Local",
+      "description": "Support complet du darija, français et anglais avec mise en page RTL"
+    },
+    "payment": {
+      "title": "Ami du Cash",
+      "description": "Supporte les paiements numériques et en espèces"
+    },
+    "culture": {
+      "title": "Culture de Service Locale",
+      "description": "Conçu autour des professionnels de quartier de confiance du Maroc"
+    },
+    "digital": {
+      "title": "Transformation Numérique",
+      "description": "Modernisation des services de réparation traditionnels"
+    },
+    "coverage": {
+      "title": "Disponible Partout au Maroc",
+      "fullCoverage": "Couverture Complète",
+      "expandingSoon": "Expansion Prochaine",
+      "comingSoon": "Bientôt 2024",
+      "viewMap": "Voir la Carte de Couverture"
+    },
+    "proud": {
+      "title": "Fièrement Marocain",
+      "description": "Conçu avec amour pour les foyers et entreprises marocains"
+    }
+  },
+  "trust": {
+    "title": "Confiance et Sécurité",
+    "subtitle": "Votre sécurité et votre tranquillité d'esprit sont nos priorités absolues",
+    "verification": {
+      "title": "Vérification d'Identité",
+      "description": "Tous les professionnels subissent des vérifications approfondies"
+    },
+    "payments": {
+      "title": "Paiements Sécurisés",
+      "description": "Transactions cryptées et protection des paiements"
+    },
+    "ratings": {
+      "title": "Évaluations Transparentes",
+      "description": "Avis honnêtes de vrais clients"
+    },
+    "support": {
+      "title": "Support 24/7",
+      "description": "Toujours là pour aider avec tous les problèmes"
+    },
+    "history": {
+      "title": "Historique de Service",
+      "description": "Enregistrement complet de tous les services effectués"
+    },
+    "insurance": {
+      "title": "Intégration Assurance",
+      "description": "Intégration future avec les fournisseurs d'assurance"
+    }
+  },
+  "business": {
+    "title": "Pour les Gestionnaires Immobiliers",
+    "subtitle": "Maintenance simplifiée pour vos propriétés",
+    "features": {
+      "multi": {
+        "title": "Gestion Multi-Propriétés",
+        "description": "Gérez toutes vos propriétés depuis un tableau de bord"
+      },
+      "priority": {
+        "title": "Support Prioritaire",
+        "description": "Obtenez des temps de réponse plus rapides pour les problèmes urgents"
+      },
+      "centralized": {
+        "title": "Gestion de Réparations Centralisée",
+        "description": "Suivez toutes les réparations et maintenance en un seul endroit"
+      },
+      "subscription": {
+        "title": "Plans d'Abonnement",
+        "description": "Tarification flexible pour les besoins d'entretien continus"
+      }
+    },
+    "cta": {
+      "title": "Prêt à rationaliser la gestion de vos propriétés ?",
+      "subtitle": "Rejoignez les gestionnaires immobiliers du Maroc qui font confiance à Maalem pour leurs besoins de maintenance",
+      "scheduleDemo": "Planifier une Démo",
+      "learnMore": "En Savoir Plus"
+    },
+    "metrics": {
+      "responseTime": {
+        "value": "< 5 min",
+        "label": "Temps de Réponse Cible"
+      },
+      "segments": {
+        "value": "3",
+        "label": "Segments de Service",
+        "sublabel": "B2C • B2B • Airbnb"
+      },
+      "coordination": {
+        "value": "Temps Réel",
+        "label": "Coordination de Maintenance"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Ce que Disent Nos Utilisateurs",
+    "badge": "Témoignages Clients",
+    "subtitle": "Des expériences réelles d'utilisateurs à travers le Maroc",
+    "trustedBy": "Fait confiance par des milliers à travers le Maroc",
+    "testimonial1": {
+      "name": "Fatima El Amrani",
+      "role": "Propriétaire, Casablanca",
+      "content": "Maalem m'a sauvée quand ma climatisation est tombée en panne pendant le Ramadan. J'ai trouvé un professionnel en 15 minutes !"
+    },
+    "testimonial2": {
+      "name": "Youssef Benali",
+      "role": "Électricien, Rabat",
+      "content": "J'ai doublé ma clientèle depuis que j'ai rejoint Maalem. L'application rend tout si simple."
+    },
+    "testimonial3": {
+      "name": "Sarah Karim",
+      "role": "Gestionnaire Immobilière, Marrakech",
+      "content": "Gérer 50 propriétés est maintenant sans effort. Maalem gère tous nos besoins de maintenance."
+    }
+  },
+  "cta": {
+    "title": "Prêt à Commencer ?",
+    "subtitle": "Rejoignez des milliers de Marocains utilisant Maalem pour leurs besoins de réparation",
+    "downloadApp": "Télécharger l'App",
+    "joinBeta": "Rejoindre la Bêta",
+    "becomeProfessional": "Devenir Professionnel"
+  },
+  "footer": {
+    "company": "Entreprise",
+    "description": "La plateforme de confiance du Maroc qui vous connecte avec des professionnels verifies de la reparation et de la maintenance.",
+    "about": "À Propos",
+    "careers": "Carrières",
+    "contact": "Contact",
+    "support": "Support",
+    "help": "Centre d'Aide",
+    "safety": "Centre de Sécurité",
+    "legal": "Légal",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "followUs": "Suivez-nous",
+    "downloadApp": "Télécharger l'App",
+    "availableOn": "Disponible sur",
+    "copyright": "© 2024 Maalem. Tous droits réservés."
+  },
+"testimonials": {
+  "title": "Ce que Disent Nos Utilisateurs",
+  "badge": "Témoignages Clients",
+  "subtitle": "Des expériences réelles d'utilisateurs à travers le Maroc",
+  "trustedBy": "Fait confiance par des milliers à travers le Maroc",
+  "testimonial1": {
+    "name": "Fatima El Amrani",
+    "role": "Propriétaire, Casablanca",
+    "content": "Maalem m'a sauvée quand ma climatisation est tombée en panne pendant le Ramadan. J'ai trouvé un professionnel en 15 minutes !"
+  },
+  "testimonial2": {
+    "name": "Youssef Benali",
+    "role": "Électricien, Rabat",
+    "content": "J'ai doublé ma clientèle depuis que j'ai rejoint Maalem. L'application rend tout si simple."
+  },
+  "testimonial3": {
+    "name": "Sarah Karim",
+    "role": "Gestionnaire Immobilière, Marrakech",
+    "content": "Gérer 50 propriétés est maintenant sans effort. Maalem gère tous nos besoins de maintenance."
+  }
+},
+"cta": {
+  "title": "Prêt à Commencer ?",
+  "subtitle": "Rejoignez des milliers de Marocains utilisant Maalem pour leurs besoins de réparation",
+  "downloadApp": "Télécharger l'App",
+  "joinBeta": "Rejoindre la Bêta",
+  "becomeProfessional": "Devenir Professionnel"
+},
+"footer": {
+  "company": "Entreprise",
+  "description": "La plateforme de confiance du Maroc qui vous connecte avec des professionnels verifies de la reparation et de la maintenance.",
+  "about": "À Propos",
+  "careers": "Carrières",
+  "contact": "Contact",
+  "support": "Support",
+  "help": "Centre d'Aide",
+  "safety": "Centre de Sécurité",
+  "legal": "Légal",
+  "privacy": "Politique de Confidentialité",
+  "terms": "Conditions d'Utilisation",
+  "followUs": "Suivez-nous",
+  "downloadApp": "Télécharger l'App",
+  "availableOn": "Disponible sur",
+  "copyright": " 2024 Maalem. Tous droits réservés."
+},
+"liveActivity": {
+  "title": "Activité en Direct",
+  "subtitle": "Activité du Marché en Temps Réel",
+  "electrician": "Électricien a accepté une demande à {city}",
+  "plumber": "Plombier a terminé une mission à {city}",
+  "technician": "Technicien AC a commencé un travail à {city}",
+  "carpenter": "Menuisier a reçu un avis 5 étoiles à {city}"
+},
+"about": {
+  "hero": {
+    "title": "Réinventer les Services Domestiques au Maroc",
+    "subtitle": "Maalem est une plateforme numérique moderne conçue pour connecter les gens avec des professionnels de réparation et d'entretien de confiance — plus rapidement, plus sûrement et plus intelligemment.",
+    "description": "Des problèmes de plomberie d'urgence aux réparations électriques et à l'entretien de la climatisation, Maalem simplifie la manière dont les Marocains trouvent une aide fiable quand ils en ont le plus besoin."
+  },
+  "mission": {
+    "title": "Notre Mission",
+    "content": "Notre mission est de moderniser et simplifier l'accès aux services domestiques à travers le Maroc en créant un écosystème de confiance entre les clients et les professionnels qualifiés. Nous visons à réduire le stress, l'incertitude et les retards souvent associés à la recherche de techniciens qualifiés en offrant une solution rapide, transparente et axée sur la technologie."
+  },
+  "whyMaalem": {
+    "title": "Pourquoi Maalem Existe",
+    "content": "Trouver un technicien fiable pendant une situation d'urgence peut être difficile, chronophage et imprévisible. De nombreux ménages, gestionnaires immobiliers et hôtes Airbnb luttent contre des interventions retardées, le manque de confiance, la tarification peu claire et la difficulté à trouver rapidement des professionnels disponibles. En même temps, de nombreux travailleurs qualifiés manquent de visibilité et d'accès à des opportunités constantes. Maalem a été créé pour combler ce fossé."
+  },
+  "whatWeOffer": {
+    "title": "Ce que Nous Offrons",
+    "content": "Maalem est une plateforme d'abord mobile qui permet aux utilisateurs de publier des demandes d'entretien ou de réparation, recevoir des offres de professionnels à proximité, comparer les réponses et les tarifs, suivre les interventions en temps réel, et accéder à des techniciens de confiance et vérifiés.",
+    "audience": [
+      "Particuliers et ménages",
+      "Entreprises et bureaux",
+      "Syndics et gestionnaires immobiliers",
+      "Hôtes Airbnb et locations à court terme"
+    ]
+  },
+  "vision": {
+    "title": "Notre Vision",
+    "content": "Nous envisageons un avenir où l'accès aux services d'entretien fiables est aussi simple que de commander du transport ou de la nourriture en ligne. Notre objectif est de construire un écosystème évolutif qui autonomise les professionnels locaux tout en améliorant la vie quotidienne de millions d'utilisateurs à travers le Maroc."
+  },
+  "builtForMorocco": {
+    "title": "Conçu Autour des Réalités Marocaines",
+    "content": "Maalem est construit spécifiquement pour le marché marocain. Nous comprenons les habitudes de service locales, les transactions basées sur le cash, l'importance de la confiance et de la réputation, et le besoin d'accessibilité multilingue.",
+    "languages": [
+      "Arabe",
+      "Français",
+      "Anglais"
+    ]
+  },
+  "trustAndSafety": {
+    "title": "La Confiance d'Abord",
+    "content": "Nous croyons que la confiance est le fondement de chaque interaction de service réussie. Maalem se concentre sur la vérification professionnelle, les notes et avis, la communication transparente, la coordination en temps réel, et la responsabilité du service pour créer une expérience plus sûre et plus fiable pour les clients et les professionnels."
+  },
+  "technology": {
+    "title": "Alimenté par la Technologie Intelligente",
+    "content": "Maalem combine technologie et expérience utilisateur pour créer un écosystème d'entretien plus rapide et plus efficace.",
+    "features": [
+      "Catégorisation des problèmes assistée par IA",
+      "Correspondance intelligente des techniciens",
+      "Systèmes de dispatch en temps réel",
+      "Outils de gestion immobilière",
+      "Optimisation des services basée sur les données"
+    ]
+  },
+  "team": {
+    "title": "Qui Nous Sommes",
+    "content": "Maalem a été créé par une équipe de quatre étudiants en ingénierie passionnés par la technologie, l'innovation et la résolution de problèmes du monde réel. En tant que futurs ingénieurs, nous voulions construire une solution capable de moderniser l'accès aux services d'entretien et de réparation au Maroc tout en créant de meilleures opportunités pour les clients et les professionnels.",
+    "shortDescription": "Nous sommes quatre étudiants en ingénierie unis par une vision partagée : utiliser la technologie pour résoudre les problèmes quotidiens et créer des solutions numériques impactantes pour le Maroc."
+  },
+  "closing": {
+    "title": "Construire l'Avenir des Services Domestiques",
+    "content": "Maalem est plus qu'une plateforme d'entretien. C'est un pas vers la transformation numérique des services locaux au Maroc — créant de meilleures opportunités pour les professionnels et de meilleures expériences pour les clients. Nous construisons un avenir plus intelligent, plus rapide et plus connecté pour les services domestiques."
+  }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez Maalem",
+      "subtitle": "Nous sommes là pour vous aider avec tous vos besoins de services domestiques. Contactez-nous et nous vous répondrons dès que possible."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "email": {
+        "title": "Email",
+        "description": "Envoyez-nous un email à tout moment"
+      },
+      "phone": {
+        "title": "Téléphone",
+        "description": "Appelez-nous pendant les heures d'ouverture"
+      },
+      "address": {
+        "title": "Adresse",
+        "description": "Visitez notre bureau",
+        "street": "Agadir Bay",
+        "city": "Agadir 80000",
+        "country": "Maroc"
+      },
+      "hours": {
+        "title": "Heures d'Ouverture",
+        "description": "Nous sommes disponibles quand vous avez besoin de nous",
+        "weekdays": "Lundi - Vendredi: 8:00 - 18:00",
+        "weekend": "Samedi: 9:00 - 14:00"
+      }
+    },
+    
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "name": "Nom Complet",
+      "namePlaceholder": "Entrez votre nom complet",
+      "email": "Adresse Email",
+      "emailPlaceholder": "votre.email@exemple.com",
+      "phone": "Numéro de Téléphone",
+      "phonePlaceholder": "+212 6XX-XXXXXX",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Comment pouvons-nous vous aider?",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous de vos besoins de services domestiques...",
+      "submit": "Envoyer le Message",
+      "submitting": "Envoi en cours...",
+      "success": "Merci ! Votre message a été envoyé avec succès. Nous vous répondrons bientôt.",
+      "error": "Désolé ! Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer ou appelez-nous directement."
+    }
+  }
+}

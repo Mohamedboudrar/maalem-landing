@@ -1,0 +1,375 @@
+{
+  "navigation": {
+    "home": "Home",
+    "howItWorks": "How It Works",
+    "features": "Features",
+    "forBusiness": "For Business",
+    "downloadApp": "Download App",
+    "becomeProfessional": "Become a Professional"
+  },
+  "hero": {
+    "title": "Need a Maalem in Minutes",
+    "subtitle": "Morocco's trusted platform connecting you with verified repair and maintenance professionals",
+    "downloadApp": "Download App",
+    "joinWaitlist": "Join Waitlist",
+    "becomeProfessional": "Become a Professional",
+    "aboutUs": "About us",
+    "contactUs": "Contact Us",
+    "stats": {
+      "matching": "Real-Time Technician Matching",
+      "ratings": "Transparent Ratings & Reviews",
+      "verified": "Verified Pros"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Simple, fast, and reliable for everyone",
+    "customerTitle": "For Customers",
+    "professionalTitle": "For Professionals",
+    "customerSteps": {
+      "1": {
+        "title": "Post Your Request",
+        "description": "Describe what you need help with and get matched instantly"
+      },
+      "2": {
+        "title": "Receive Offers",
+        "description": "Get competitive offers from verified professionals in your area"
+      },
+      "3": {
+        "title": "Choose & Track",
+        "description": "Select your preferred professional and track their arrival in real-time"
+      }
+    },
+    "professionalSteps": {
+      "1": {
+        "title": "Receive Requests",
+        "description": "Get notified about repair jobs in your area"
+      },
+      "2": {
+        "title": "Send Offers",
+        "description": "Compete fairly by sending your best offers and availability"
+      },
+      "3": {
+        "title": "Complete & Get Paid",
+        "description": "Complete the job and receive secure payments with great reviews"
+      }
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "subtitle": "Join thousands of Moroccans who trust Maalem for their repair and maintenance needs",
+      "downloadApp": "Download App",
+      "becomeProfessional": "Become a Professional"
+    }
+  },
+  "features": {
+    "title": "Why Choose Maalem",
+    "subtitle": "Everything you need for reliable home and business services",
+    "emergency": {
+      "title": "Emergency Assistance",
+      "description": "24/7 emergency support for urgent repairs"
+    },
+    "matching": {
+      "title": "Real-Time Matching",
+      "description": "AI-powered matching with the best professionals"
+    },
+    "negotiation": {
+      "title": "Live Price Negotiation",
+      "description": "Fair pricing through transparent negotiation"
+    },
+    "verified": {
+      "title": "Verified Professionals",
+      "description": "All professionals are background-checked and verified"
+    },
+    "ratings": {
+      "title": "Ratings & Reviews",
+      "description": "Build trust through community feedback"
+    },
+    "tracking": {
+      "title": "Real-Time Tracking",
+      "description": "Track your professional's arrival live"
+    },
+    "ai": {
+      "title": "AI Problem Detection",
+      "description": "Smart diagnostics for accurate solutions"
+    },
+    "multilang": {
+      "title": "Multi-language Support",
+      "description": "Available in Arabic, French, and English"
+    },
+    "property": {
+      "title": "Property Management Mode",
+      "description": "Specialized features for property managers"
+    }
+  },
+  "morocco": {
+    "title": "Built for Morocco",
+    "subtitle": "Designed specifically for Moroccan homes and businesses",
+    "localization": {
+      "title": "Local Language Support",
+      "description": "Full support for Darija, French, and English with RTL layout"
+    },
+    "payment": {
+      "title": "Cash-Friendly",
+      "description": "Supports both digital and cash payments"
+    },
+    "culture": {
+      "title": "Local Service Culture",
+      "description": "Built around Morocco's trusted neighborhood professionals"
+    },
+    "digital": {
+      "title": "Digital Transformation",
+      "description": "Modernizing traditional repair services"
+    },
+    "coverage": {
+      "title": "Available Across Morocco",
+      "fullCoverage": "Full Coverage",
+      "expandingSoon": "Expanding Soon",
+      "comingSoon": "Coming 2024",
+      "viewMap": "View Full Coverage Map"
+    },
+    "proud": {
+      "title": "Proudly Moroccan",
+      "description": "Built with love for Moroccan homes and businesses"
+    }
+  },
+  "trust": {
+    "title": "Trust & Safety",
+    "subtitle": "Your security and peace of mind are our top priorities",
+    "verification": {
+      "title": "Identity Verification",
+      "description": "All professionals undergo thorough background checks"
+    },
+    "payments": {
+      "title": "Secure Payments",
+      "description": "Encrypted transactions and payment protection"
+    },
+    "ratings": {
+      "title": "Transparent Ratings",
+      "description": "Honest reviews from real customers"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Always here to help with any issues"
+    },
+    "history": {
+      "title": "Service History",
+      "description": "Complete record of all services performed"
+    },
+    "insurance": {
+      "title": "Insurance Integration",
+      "description": "Future integration with insurance providers"
+    }
+  },
+    "business": {
+    "title": "For Property Managers",
+    "subtitle": "Streamlined maintenance for your properties",
+    "features": {
+      "multi": {
+        "title": "Multi-Property Management",
+        "description": "Manage all your properties from one dashboard"
+      },
+      "priority": {
+        "title": "Priority Support",
+        "description": "Get faster response times for urgent issues"
+      },
+      "centralized": {
+        "title": "Centralized Repair Management",
+        "description": "Track all repairs and maintenance in one place"
+      },
+      "subscription": {
+        "title": "Subscription Plans",
+        "description": "Flexible pricing for ongoing maintenance needs"
+      }
+    },
+    "cta": {
+      "title": "Ready to streamline your property management?",
+      "subtitle": "Join property managers across Morocco who trust Maalem for their maintenance needs",
+      "scheduleDemo": "Schedule Demo",
+      "learnMore": "Learn More"
+    },
+    "metrics": {
+      "responseTime": {
+        "value": "< 5 min",
+        "label": "Target Response Time"
+      },
+      "segments": {
+        "value": "3",
+        "label": "Service Segments",
+        "sublabel": "B2C • B2B • Airbnb"
+      },
+      "coordination": {
+        "value": "Real-Time",
+        "label": "Maintenance Coordination"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "badge": "Customer Stories",
+    "subtitle": "Real experiences from real users across Morocco",
+    "trustedBy": "Trusted by thousands across Morocco",
+    "testimonial1": {
+      "name": "Fatima El Amrani",
+      "role": "Homeowner, Casablanca",
+      "content": "Maalem saved me when my AC broke during Ramadan. Found a professional within 15 minutes!"
+    },
+    "testimonial2": {
+      "name": "Youssef Benali",
+      "role": "Electrician, Rabat",
+      "content": "I've doubled my client base since joining Maalem. The app makes everything so simple."
+    },
+    "testimonial3": {
+      "name": "Sarah Karim",
+      "role": "Property Manager, Marrakech",
+      "content": "Managing 50 properties is now effortless. Maalem handles all our maintenance needs."
+    }
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Join thousands of Moroccans using Maalem for their repair needs",
+    "downloadApp": "Download App",
+    "joinBeta": "Join Beta",
+    "becomeProfessional": "Become a Professional",
+    "stats": {
+      "happyUsers": "Happy Users",
+      "verifiedPros": "Verified Pros",
+      "appRating": "App Rating"
+    },
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "company": "Company",
+    "description": "Morocco's trusted platform connecting you with verified repair and maintenance professionals.",
+    "about": "About Us",
+    "careers": "Careers",
+    "contact": "Contact",
+    "support": "Support",
+    "help": "Help Center",
+    "safety": "Safety Center",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "followUs": "Follow Us",
+    "downloadApp": "Download App",
+    "availableOn": "Available on",
+    "copyright": "© 2026 Maalem. All rights reserved."
+  },
+  "liveActivity": {
+    "title": "Live Activity",
+    "subtitle": "Real-time Marketplace Activity",
+    "electrician": "Electrician accepted a request in {city}",
+    "plumber": "Plumber completed a mission in {city}",
+    "technician": "AC technician started a job in {city}",
+    "carpenter": "Carpenter received 5-star review in {city}"
+  },
+  "about": {
+    "hero": {
+      "title": "Reinventing Home Services in Morocco",
+      "subtitle": "Maalem is a modern digital platform built to connect people with trusted repair and maintenance professionals — faster, safer, and smarter.",
+      "description": "From emergency plumbing issues to electrical repairs and air conditioning maintenance, Maalem simplifies how Moroccans find reliable help when they need it most."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "Our mission is to modernize and simplify access to home services across Morocco by creating a trusted ecosystem between customers and skilled professionals. We aim to reduce the stress, uncertainty, and delays often associated with finding qualified technicians by offering a fast, transparent, and technology-driven solution."
+    },
+    "whyMaalem": {
+      "title": "Why Maalem Exists",
+      "content": "Finding a reliable technician during an urgent situation can be difficult, time-consuming, and unpredictable. Many households, property managers, and Airbnb hosts struggle with delayed interventions, lack of trust, unclear pricing, and difficulty finding available professionals quickly. At the same time, many skilled workers lack visibility and access to consistent opportunities. Maalem was created to bridge this gap."
+    },
+    "whatWeOffer": {
+      "title": "What We Offer",
+      "content": "Maalem is a mobile-first platform that allows users to post maintenance or repair requests, receive offers from nearby professionals, compare responses and pricing, track interventions in real time, and access trusted and verified technicians.",
+      "audience": [
+        "Individuals and households",
+        "Businesses and offices",
+        "Syndics and property managers",
+        "Airbnb and short-term rental hosts"
+      ]
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "We envision a future where accessing reliable maintenance services is as simple as ordering transportation or food online. Our goal is to build a scalable ecosystem that empowers local professionals while improving everyday life for millions of users across Morocco."
+    },
+    "builtForMorocco": {
+      "title": "Designed Around Moroccan Realities",
+      "content": "Maalem is built specifically for the Moroccan market. We understand local service habits, cash-based transactions, the importance of trust and reputation, and the need for multilingual accessibility.",
+      "languages": [
+        "Arabic",
+        "French",
+        "English"
+      ]
+    },
+    "trustAndSafety": {
+      "title": "Trust Comes First",
+      "content": "We believe trust is the foundation of every successful service interaction. Maalem focuses on professional verification, ratings and reviews, transparent communication, real-time coordination, and service accountability to create a safer and more reliable experience for both customers and professionals."
+    },
+    "technology": {
+      "title": "Powered by Smart Technology",
+      "content": "Maalem combines technology and user experience to create a faster and more efficient maintenance ecosystem.",
+      "features": [
+        "AI-assisted issue categorization",
+        "Intelligent technician matching",
+        "Real-time dispatch systems",
+        "Property management tools",
+        "Data-driven service optimization"
+      ]
+    },
+    "team": {
+      "title": "Who We Are",
+      "content": "Maalem was created by a team of four engineering students passionate about technology, innovation, and solving real-world problems. As future engineers, we wanted to build a solution capable of modernizing access to maintenance and repair services in Morocco while creating better opportunities for both customers and professionals.",
+      "shortDescription": "We are four engineering students united by a shared vision: using technology to solve everyday problems and create impactful digital solutions for Morocco."
+    },
+    "closing": {
+      "title": "Building the Future of Home Services",
+      "content": "Maalem is more than a maintenance platform. It is a step toward the digital transformation of local services in Morocco — creating better opportunities for professionals and better experiences for customers. We are building a smarter, faster, and more connected future for home services."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch with Maalem",
+      "subtitle": "We're here to help you with all your home service needs. Reach out to us and we'll get back to you as soon as possible."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": {
+        "title": "Email",
+        "description": "Send us an email anytime"
+      },
+      "phone": {
+        "title": "Phone",
+        "description": "Call us during business hours"
+      },
+      "address": {
+        "title": "Address",
+        "description": "Visit our office",
+        "street": "Agadir Bay",
+        "city": "Agadir 80000",
+        "country": "Morocco"
+      },
+      "hours": {
+        "title": "Business Hours",
+        "description": "We're available when you need us",
+        "weekdays": "Monday - Friday: 8:00 AM - 6:00 PM",
+        "weekend": "Saturday: 9:00 AM - 2:00 PM"
+      }
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your.email@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+212 6XX-XXXXXX",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can we help you?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your home service needs...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Thank you! Your message has been sent successfully. We'll get back to you soon.",
+      "error": "Sorry! There was an error sending your message. Please try again or call us directly."
+    }
+  }
+}
