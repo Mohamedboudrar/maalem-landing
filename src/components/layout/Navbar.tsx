@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { useTranslations, useLocale } from 'next-intl';
-import { Menu, X, Globe, Download, UserPlus } from 'lucide-react';
+import { Menu, X, Globe } from 'lucide-react';
 import Link from 'next/link';
 import { useRouter, usePathname } from 'next/navigation';
 import Logo from '../../../public/assets/images/logo-M.png';
@@ -151,14 +151,6 @@ export default function Navbar() {
                 </div>
               </div>
               
-              <button className="w-full flex items-center justify-center space-x-2 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors">
-                <Download className="w-4 h-4" />
-                <span>{t('downloadApp')}</span>
-              </button>
-              <button className="w-full flex items-center justify-center space-x-2 border border-blue-600 text-blue-600 px-4 py-2 rounded-lg hover:bg-blue-50 transition-colors">
-                <UserPlus className="w-4 h-4" />
-                <span>{t('becomeProfessional')}</span>
-              </button>
             </div>
           </div>
         )}
