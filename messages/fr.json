@@ -124,7 +124,6 @@
       "title": "Disponible Partout au Maroc",
       "fullCoverage": "Couverture Complète",
       "expandingSoon": "Expansion Prochaine",
-      "comingSoon": "Bientôt 2024",
       "viewMap": "Voir la Carte de Couverture"
     },
     "proud": {
@@ -246,53 +245,9 @@
     "followUs": "Suivez-nous",
     "downloadApp": "Télécharger l'App",
     "availableOn": "Disponible sur",
-    "copyright": "© 2024 Maalem. Tous droits réservés."
+    "copyright": "© 2026 Maalem. Tous droits réservés."
   },
-"testimonials": {
-  "title": "Ce que Disent Nos Utilisateurs",
-  "badge": "Témoignages Clients",
-  "subtitle": "Des expériences réelles d'utilisateurs à travers le Maroc",
-  "trustedBy": "Fait confiance par des milliers à travers le Maroc",
-  "testimonial1": {
-    "name": "Fatima El Amrani",
-    "role": "Propriétaire, Casablanca",
-    "content": "Maalem m'a sauvée quand ma climatisation est tombée en panne pendant le Ramadan. J'ai trouvé un professionnel en 15 minutes !"
-  },
-  "testimonial2": {
-    "name": "Youssef Benali",
-    "role": "Électricien, Rabat",
-    "content": "J'ai doublé ma clientèle depuis que j'ai rejoint Maalem. L'application rend tout si simple."
-  },
-  "testimonial3": {
-    "name": "Sarah Karim",
-    "role": "Gestionnaire Immobilière, Marrakech",
-    "content": "Gérer 50 propriétés est maintenant sans effort. Maalem gère tous nos besoins de maintenance."
-  }
-},
-"cta": {
-  "title": "Prêt à Commencer ?",
-  "subtitle": "Rejoignez des milliers de Marocains utilisant Maalem pour leurs besoins de réparation",
-  "downloadApp": "Télécharger l'App",
-  "joinBeta": "Rejoindre la Bêta",
-  "becomeProfessional": "Devenir Professionnel"
-},
-"footer": {
-  "company": "Entreprise",
-  "description": "La plateforme de confiance du Maroc qui vous connecte avec des professionnels verifies de la reparation et de la maintenance.",
-  "about": "À Propos",
-  "careers": "Carrières",
-  "contact": "Contact",
-  "support": "Support",
-  "help": "Centre d'Aide",
-  "safety": "Centre de Sécurité",
-  "legal": "Légal",
-  "privacy": "Politique de Confidentialité",
-  "terms": "Conditions d'Utilisation",
-  "followUs": "Suivez-nous",
-  "downloadApp": "Télécharger l'App",
-  "availableOn": "Disponible sur",
-  "copyright": " 2024 Maalem. Tous droits réservés."
-},
+
 "liveActivity": {
   "title": "Activité en Direct",
   "subtitle": "Activité du Marché en Temps Réel",

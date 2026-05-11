@@ -51,8 +51,8 @@ export default function ContactPage() {
                       <div>
                         <h3 className="font-semibold text-gray-900">{t('info.email.title')}</h3>
                         <p className="text-gray-600">{t('info.email.description')}</p>
-                        <a href="mailto:contact@maalem.ma" className="text-blue-600 hover:text-blue-700">
-                          contact@maalem.ma
+                        <a href="mailto:maalem.support@gmail.com" className="text-blue-600 hover:text-blue-700">
+                          maalem.support@gmail.com
                         </a>
                       </div>
                     </div>

@@ -5,7 +5,7 @@ import { useState } from 'react';
 import { Globe, Mail, Phone, MapPin } from 'lucide-react';
 import Link from 'next/link';
 import { useRouter, usePathname } from 'next/navigation';
-import Logo from '../../../public/assets/images/logo-maalem.jpg';
+import Logo from '../../../public/assets/images/logo-M.png';
 
 export default function Footer() {
   const t = useTranslations('footer');
@@ -176,7 +176,7 @@ export default function Footer() {
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             <div className="flex items-center space-x-3">
               <Mail className="w-5 h-5 text-blue-400" />
-              <span className="text-gray-400">contact@maalem.ma</span>
+              <span className="text-gray-400">maalem.support@gmail.com</span>
             </div>
             <div className="flex items-center space-x-3">
               <Phone className="w-5 h-5 text-blue-400" />

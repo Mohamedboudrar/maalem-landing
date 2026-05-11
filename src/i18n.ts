@@ -12,7 +12,7 @@ const allMessages: Record<string, any> = {
 };
 
 export default getRequestConfig(async ({ locale }) => {
-  const safeLocale = locale || 'en';
+  const safeLocale = locale || 'fr';
   return {
     locale: safeLocale,
     messages: allMessages[safeLocale] || enMessages
